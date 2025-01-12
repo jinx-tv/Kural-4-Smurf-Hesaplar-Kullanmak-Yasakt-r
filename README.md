@@ -1,1 +1,1 @@
-# Kural-4-Smurf-Hesaplar-Kullanmak-Yasakt-r
+# Kural-4-Smurf-Hesaplar-Kullanmak-Yasaktır
